@@ -4,11 +4,11 @@
 
 ## 1. **Script Setup & Making Scripts Executable**
 
-| Command or Line           | What it Does                                         | Example/When to Use                         |
-|--------------------------|------------------------------------------------------|---------------------------------------------|
-| `#!/bin/bash`            | "Run this script using Bash shell" (at script top)   | Start every Bash script with this line      |
-| `chmod +x script.sh`     | Makes a script file executable                       | After you write a script, before you run it |
-| `./script.sh`            | Runs an executable script in current directory       | To launch your script from the terminal     |
+| Command or Line           | What it Does                                                 | Example/When to Use                         |
+|--------------------------|---------------------------------------------------------------|---------------------------------------------|
+| `#!/bin/bash`            | (shebang)"Run this script using Bash shell" (at script top)   | Start every Bash script with this line      |
+| `chmod +x script.sh`     | Makes a script file executable                                | After you write a script, before you run it |
+| `./script.sh`            | Runs an executable script in current directory                | To launch your script from the terminal     |
 
 
 ---
